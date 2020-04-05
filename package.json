@@ -1,0 +1,23 @@
+{
+  "name": "cloud-function-firebase-demo-http",
+  "version": "1.0.0",
+  "description": "Call functions via HTTP requests using Cloud Function with Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielChuDC/cloud-function-firebase-demo.git"
+  },
+  "keywords": [
+    "cloud",
+    "function"
+  ],
+  "author": "DanielChuDC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielChuDC/cloud-function-firebase-demo/issues"
+  },
+  "homepage": "https://github.com/DanielChuDC/cloud-function-firebase-demo#readme"
+}
